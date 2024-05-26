@@ -1,8 +1,15 @@
-1) set up mongoDB database
-2) make connection 
+-) set up mongoDB database
+-) make connection 
 
 3.10 mins
 https://www.youtube.com/watch?v=dJz94r5C3QA
 
 'mongodb+srv://tomfyfe:lgVAYj34yumNoMHT@offical.owwmlam.mongodb.net/?retryWrites=true&w=majority&appName=offical/CalmPlan',
-    ),
+
+) look at data to be sent from FE
+) seed database with test database - crud with compass? ? 
+) create all endpoint to test if data can be retrieved
+) create schema for data
+) 
+
+
